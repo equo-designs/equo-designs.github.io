@@ -1,0 +1,27 @@
+# Permalinks
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "Equo Designs"
+tagline:             ""
+description:         "Equo, LLC (dba Equo Designs) is a technology and design firm that puts social intiatives at the forefront. All Equo Designs contracts will contribute revenue to support programs for social and equitable good."
+baseurl:             ""
+url:                 "http://equo-designs.github.io"
+paginate:            5
+
+# Pages
+pages_list:
+  About:               '/'
+
+# About
+author:
+  name:              "Equo, LLC"
+  email:             equodesigns@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+
+# plugins:             [exifr]
